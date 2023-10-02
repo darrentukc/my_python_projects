@@ -1,3 +1,10 @@
+'''
+A project made while going through 100 days of python course from udemy.
+Some things to improve for this project:
+    # check inputs for y and n choices, if typo, get input again.
+    # use cleaner output but clearing screen more often
+'''
+
 # imports
 import os
 
