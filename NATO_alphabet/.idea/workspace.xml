@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc4abf8b-6939-4600-aeec-2ae96a08e540" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/NATO_alphabet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/day-30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/a_file.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inch_to_cm_converter/.idea/inch_to_cm_converter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inch_to_cm_converter/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../password_manager/.idea/password_manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../password_manager/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../password_manager/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../password_manager/playplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pomodoro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pomodoro/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pomodoro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pomodoro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pomodoro/.idea/pomodoro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pomodoro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pomodoro/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us_states_quiz/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us_states_quiz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us_states_quiz/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us_states_quiz/.idea/us_states_quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us_states_quiz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us_states_quiz/day-25-us-states-game-start/50_states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us_states_quiz/day-25-us-states-game-start/blank_states_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us_states_quiz/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us_states_quiz/playplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us_states_quiz/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us_states_quiz/states_to_learn" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2WscuFEPnvnA79pOEUWZKfYoWWD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Darre/Documents/GitHub/my_python_projects/NATO_alphabet"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NATO_alphabet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc4abf8b-6939-4600-aeec-2ae96a08e540" name="Changes" comment="" />
+      <created>1697524948992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697524948992</updated>
+    </task>
+    <servers />
+  </component>
+</project>
